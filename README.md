@@ -6,6 +6,7 @@
 - [Residential.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/Residential.csv) - обработанный датасет, на основе которго делались визуализации и строились гипотезы
 - [final.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/final.csv) - финальный датасет, который использовался при проверке гипотез и машинном обучении
 
+**Наш план-капкан:**
 1. Мы скачали с сайта ЕИСЖС более 10тыс HTML-страничек об объектах недвижимости: [[01] - data_download.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/8c8e0b6237742662c60f75735d84bc19e8031ae3/%5B01%5D%20-%20data_download.ipynb); скачанные HTML-странички можно посмотреть по [ссылке](https://drive.google.com/uc?id=1KaiWg6ulE-u0NU8IQelMKl1iCShJO9rZ)
 2. Парсинг собранных HTML-страничек: [[02] - parse_data.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/8c3f7d0d573bd9deb824306f85081440b578aea9/%5B02%5D%20-%20parse_data.ipynb)
 3. Предобработка данных и создание новых признаков: [[03] - preanalysis.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/ef177fe20a6da6ebd253f4e32fc8c2a31d6968da/%5B03%5D%20-%20preanalysis.ipynb))
