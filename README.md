@@ -8,4 +8,10 @@
 5. Тестирование гипотез с помощью статистических методов: [[05] - hypothesis_stat_methods.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/57ed937ebbcf6e43e95c48052fb074fa0824e345/%5B5%5D%20-%20hypothesis_stat_methods.ipynb)
 6. Машинное обучение: [[06] - ML.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/a910b1e7704dfb8d9aa62d0c13a0596a15171b7a/%5B05%5D%20-%20ML.ipynb)
    
+Таблицы с данными:
+[UnDone.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/UnDone.csv)
+[Residential.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/Residential.csv)
+[final.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/final.csv)
+
+
 
