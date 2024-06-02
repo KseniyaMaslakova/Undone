@@ -9,9 +9,9 @@
 6. Машинное обучение: [[06] - ML.ipynb](https://github.com/KseniyaMaslakova/Undone/blob/a910b1e7704dfb8d9aa62d0c13a0596a15171b7a/%5B05%5D%20-%20ML.ipynb)
    
 Таблицы с данными:
-[UnDone.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/UnDone.csv) - изначальный необработанный датасет
-[Residential.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/Residential.csv) - обработанный датасет, на основе которго делались визуализации и строились гипотезы  
-[final.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/final.csv) - финальный датасет, который использовался при проверке гипотез и машинном обучении
+- [UnDone.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/UnDone.csv) - изначальный необработанный датасет
+- [Residential.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/Residential.csv) - обработанный датасет, на основе которго делались визуализации и строились гипотезы
+- [final.csv](https://github.com/KseniyaMaslakova/Undone/blob/4f4adf2c752fa2ce0c0b0a8c868945975f41a029/final.csv) - финальный датасет, который использовался при проверке гипотез и машинном обучении
 
 
 
